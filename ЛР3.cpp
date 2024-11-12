@@ -5,5 +5,4 @@
     cin >> n;
     cin >> t;
     int solo = n / t;
-    int simulator = m - n - solo;
 }
