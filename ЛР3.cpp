@@ -4,5 +4,5 @@
     cin >> m;
     cin >> n;
     cin >> t;
-    int solo = n / t;
+    int duo n / t;
 }
