@@ -5,4 +5,5 @@
     cin >> n;
     cin >> t;
     int duo n / t;
+    cout "Peremoga"
 }
