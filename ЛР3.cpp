@@ -4,5 +4,5 @@
     cin >> m;
     cin >> n;
     cin >> t;
-    MY NAME IS ANTON
+    GG NE BUDET
 }
