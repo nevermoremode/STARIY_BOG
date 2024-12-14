@@ -4,5 +4,4 @@
     cin >> m;
     cin >> n;
     cin >> t;
-    int duo n / t;
 }
